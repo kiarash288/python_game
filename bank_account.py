@@ -52,3 +52,5 @@ class TaxTransform(IntrestRewaradAccount):
             accountName.deposit(amount)
         except BalanceException as error:
             print(f'\n Transfer intterupted {error}')
+class AhmadZoghi(BankAccount):
+    pass

@@ -12,3 +12,4 @@ Mina.getBalance
 Mina.deposit(100)
 Ahmad=TaxTransform(1000,'Ahmad')
 Ahmad.transfer(Mina,150)
+Nasrin=TaxTransform(4000,Mina)
